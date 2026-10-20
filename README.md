@@ -1,4 +1,7 @@
-# LonelyModV2 & LonelyLauncher
+# LonelyModV2 & LonelyLauncher Website: https://lonelylauncher.onrender.com
+LonelyLauncher
+
+LonelyLauncher Benim Geliştirdiğim Sade Bir Launcher Nerdeyse Her gün Geçtikce Düzenlemeye ve Yeni özellik getirmeye devam ediyorum. LonelyModv2 İse Bu Launcher için Yapılan Özel Bir Moddur Ama Bu Moddu Launcher I Kurduğunuzda Zorunlu Şekilde Kullanmanızı Zorlamıyoruz Bu Modu Ya Kendiniz yükleyip Profilinizin Mods Klörüne Atarak Kullanabillirsiniz veya Modpack Oluşturup Yandan LonelyLauncher Özel Pack Yazan Packi İndirebillirsiniz Kullanmak İçin.
 
 LonelyModV2 Beta
 This is a custom Minecraft mod I created, supporting versions from 1.20 up to 1.21.11. I uploaded it to this repository so that both I and others could use it for free; it was never intended to be malicious or a trap. You can use it safely, though there are issues with a few versions:
@@ -30,5 +33,5 @@ This mod works with the Fabric API.
 
 One last thing: this mod was created for a specific Minecraft launcher (Lonely Launcher). If you wish, you can download and use that launcher as well; if you select Fabric for a version between 1.20 and 1.21.11 for your modpack, you can download the "LonelyClient Optimization Pack" directly from the mod selection screen. Downloading this adds optimization features and installs LonelyModV2.
 
-Mod Creator: Mr_Lonely / lonelywolf4634 (Discord)
+Mod/Launcher Creator: Mr_Lonely / lonelywolf4634 (Discord)
 Feel free to message me on Discord with feedback about the mod. Thank you very much for using my mod; I plan to improve it further very soon.

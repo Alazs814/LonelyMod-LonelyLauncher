@@ -1,7 +1,8 @@
 # LonelyModV2 & LonelyLauncher Website: https://lonelylauncher.onrender.com
+
 LonelyLauncher
 
-LonelyLauncher Benim Geliştirdiğim Sade Bir Launcher Nerdeyse Her gün Geçtikce Düzenlemeye ve Yeni özellik getirmeye devam ediyorum. LonelyModv2 İse Bu Launcher için Yapılan Özel Bir Moddur Ama Bu Moddu Launcher I Kurduğunuzda Zorunlu Şekilde Kullanmanızı Zorlamıyoruz Bu Modu Ya Kendiniz yükleyip Profilinizin Mods Klörüne Atarak Kullanabillirsiniz veya Modpack Oluşturup Yandan LonelyLauncher Özel Pack Yazan Packi İndirebillirsiniz Kullanmak İçin.
+LonelyLauncher is a simple launcher I developed; I continue to refine it and add new features almost every day. LonelyModv2 is a custom mod designed specifically for this launcher, but you are not required to use it. You can either install the mod yourself by placing it into your profile's 'mods' folder, or—if you are creating a modpack—you can download the pack labeled "LonelyLauncher Special Pack" to use it.
 
 LonelyModV2 Beta
 This is a custom Minecraft mod I created, supporting versions from 1.20 up to 1.21.11. I uploaded it to this repository so that both I and others could use it for free; it was never intended to be malicious or a trap. You can use it safely, though there are issues with a few versions:
